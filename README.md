@@ -34,7 +34,7 @@ I'm a passionate software developer with a strong background in backend developm
 
 ### 💬 Let's Connect:
 
-- [LinkedIn](https://www.linkedin.com/ankitjava8)
+- [LinkedIn](https://www.linkedin.com/in/ankitjava8)
 
 Feel free to explore my repositories and reach out if you'd like to collaborate on a project or discuss tech!
 
